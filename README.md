@@ -7,3 +7,6 @@ Among the best resources I've seen is the [mu-project](https://mu.krj.st/), whic
 I strive to get the essence of this lectures, structuring my own course in such a way, that would bring joy of exploration to an audio development field, that seem to lack it so much.
 
 This repository does not yet provide any of my notes, proposing my variations of examples from mu project instead.
+
+---
+I do not own mentioned [mu.krj.st](https://mu.krj.st/) website.
